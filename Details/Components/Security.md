@@ -1,0 +1,1 @@
+Responsible for authentication of all traffic using credentials and keys from secure db.

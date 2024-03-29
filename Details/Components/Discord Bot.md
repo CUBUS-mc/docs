@@ -1,0 +1,1 @@
+A discord bot to interact with CUBUS. Notification for the watchlist are send by it.

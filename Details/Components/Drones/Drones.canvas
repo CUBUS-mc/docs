@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"0f5964b5d393f152","type":"group","x":-640,"y":200,"width":860,"height":100,"color":"4","label":"Drone Types"},
+		{"id":"c6086815971691d2","type":"text","text":"### Drones","x":-342,"y":-25,"width":240,"height":60,"color":"4"},
+		{"id":"7548ebc9c1a23f0d","type":"text","text":"[[Minecraft Proxy]]","x":-620,"y":220,"width":250,"height":60,"color":"4"},
+		{"id":"18c5d411ce01d6c1","type":"text","text":"[[SpaceInvader]]","x":-340,"y":220,"width":250,"height":60,"color":"4"},
+		{"id":"02e019c69b96b420","type":"text","text":"[[MPI]]","x":-60,"y":220,"width":250,"height":60,"color":"4"}
+	],
+	"edges":[
+		{"id":"f8bec1158b5bd256","fromNode":"c6086815971691d2","fromSide":"bottom","toNode":"18c5d411ce01d6c1","toSide":"top"},
+		{"id":"cb291be2a3e0f3a0","fromNode":"c6086815971691d2","fromSide":"bottom","toNode":"7548ebc9c1a23f0d","toSide":"top"},
+		{"id":"b6149e354aff852a","fromNode":"c6086815971691d2","fromSide":"bottom","toNode":"02e019c69b96b420","toSide":"top"}
+	]
+}

@@ -1,0 +1,3 @@
+- The service should not be used for greefing 
+- Always stick to the rules of the server
+- Don't DOS the CUBUS

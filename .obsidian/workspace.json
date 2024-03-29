@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "8597d0ecbda406bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4aaecedc0672db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b334906244d07f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fc150ebbab6867ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d8cab40b14e28b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b7b72be1f60955f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d9e2db092f81c9e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf332f9a4006d944",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "db45c163c4f8aa21",
+    "type": "split",
+    "children": [
+      {
+        "id": "e066b069bab729e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f5be49f0db5b273a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b98d1b8906db3bf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "998029b1e6c79675",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8fb9ea036ec30b42",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "67ffbbd4d674ca09",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "zettelflow:Create a new Zettel Note": false
+    }
+  },
+  "active": "9b7b72be1f60955f",
+  "lastOpenFiles": [
+    "README.md",
+    "CUBUS.md",
+    "Terms of Service.md",
+    "Details/CUBUS Structure.canvas",
+    "Details/Components/Website.md",
+    "Details/Components/Security.md",
+    "Details/Components/Queen.md",
+    "Details/Components/API.md",
+    "Details/Components/CubusMod.md",
+    "Details/Components/Discord Bot.md",
+    "Details/Components/Database/Database.canvas",
+    "Details/Components/Database/Quick.md",
+    "Details/Components/Drones/SpaceInvader.md",
+    "Details/Components/Drones/MPI.md",
+    "Details/Components/Drones/Minecraft Proxy.md",
+    "Details/Components/Drones/Drones.canvas",
+    "Details/Components/Database/Secure.md",
+    "Details/Components/Database/Bulk.md",
+    "New folder",
+    "Terms.md",
+    "Drones.md",
+    "Details/Components/Drones",
+    "Details/Components/Database",
+    "Details/Components/Website.canvas",
+    "Details/Components/Security.canvas",
+    "Details/Components/Queen.canvas",
+    "Details",
+    "Details/Components",
+    "2024-01-30.md",
+    "Website",
+    "Security",
+    "Welcome.md"
+  ]
+}

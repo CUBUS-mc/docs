@@ -1,0 +1,26 @@
+{
+	"nodes":[
+		{"id":"a15f58f610f46d09","type":"group","x":-340,"y":-480,"width":1050,"height":440,"color":"6","label":"Database Types"},
+		{"id":"035f532ef6748aa4","type":"group","x":0,"y":-420,"width":369,"height":340,"color":"6","label":"Secure"},
+		{"id":"3f2155fffa177177","type":"group","x":400,"y":-420,"width":290,"height":340,"color":"6","label":"Bulk"},
+		{"id":"00574d46ffb4c007","type":"group","x":-320,"y":-420,"width":290,"height":340,"color":"6","label":"Quick"},
+		{"id":"7b6899c5f7a15bbe","type":"text","text":"[[Quick#Server DB|Server DB]]","x":-300,"y":-400,"width":250,"height":60,"color":"6"},
+		{"id":"ec7d38a3f35d1d51","type":"text","text":"[[Quick#Player DB|Player DB]]","x":-300,"y":-319,"width":250,"height":60,"color":"6"},
+		{"id":"147aa917db2e67b8","type":"text","text":"[[Quick#Cache|Cache]]","x":-300,"y":-239,"width":250,"height":60,"color":"6"},
+		{"id":"aab3b305aeb0a357","type":"text","text":"[[Secure#Player UUID & Matching public keys|Player UUID & Matching public keys]]","x":20,"y":-400,"width":329,"height":60,"color":"6"},
+		{"id":"2553779e006aaa9b","type":"text","text":"[[Secure#Drone UID & Matching public keys|Drone UID & Matching public keys]]","x":20,"y":-324,"width":329,"height":60,"color":"6"},
+		{"id":"a6ad65f33b55eac8","type":"text","text":"[[Quick#Messenger|Messenger]]","x":-300,"y":-158,"width":250,"height":60,"color":"6"},
+		{"id":"c49958ca6cd9cbd8","type":"text","text":"[[Secure#DB Credentials|DB Auths]]","x":20,"y":-163,"width":320,"height":65,"color":"6"},
+		{"id":"50487ee7b8490d05","type":"text","text":"[[Secure#Queen public key|Queen public key]]","x":20,"y":-244,"width":329,"height":65,"color":"6"},
+		{"id":"a4c4fa1c65475545","type":"text","text":"### Database","x":60,"y":-740,"width":250,"height":50,"color":"6"},
+		{"id":"e3b6278de092a507","type":"text","text":"[[Bulk#World Saves|World Saves]]\n[[Bulk#World Saves|]]","x":420,"y":-400,"width":250,"height":60,"color":"6"},
+		{"id":"9f8af3faef9701a9","type":"text","text":"[[Bulk#Skins|Skins]]","x":420,"y":-319,"width":250,"height":60,"color":"6"},
+		{"id":"7478797a87251e57","type":"text","text":"[[Bulk#Images|Images]]","x":420,"y":-239,"width":250,"height":60,"color":"6"},
+		{"id":"30de15bd1033557e","type":"text","text":"[[Bulk#History|History]]","x":420,"y":-158,"width":250,"height":60,"color":"6"}
+	],
+	"edges":[
+		{"id":"e09eb4f7cb8526ad","fromNode":"a4c4fa1c65475545","fromSide":"bottom","toNode":"035f532ef6748aa4","toSide":"top"},
+		{"id":"ce01e5c428441076","fromNode":"a4c4fa1c65475545","fromSide":"bottom","toNode":"00574d46ffb4c007","toSide":"top"},
+		{"id":"0422859d4b53a882","fromNode":"a4c4fa1c65475545","fromSide":"bottom","toNode":"3f2155fffa177177","toSide":"top"}
+	]
+}
