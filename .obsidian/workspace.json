@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bd54cd8aeafcb60e",
+        "id": "190e4916e330264f",
         "type": "tabs",
         "children": [
           {
-            "id": "8312f3d4a6d8d36e",
+            "id": "4c079eaf71c8b711",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Details/Components/CubusMod.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -65,8 +61,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Details/Components/CubusMod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Details/Components/CubusMod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Details/Components/CubusMod.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -164,9 +157,12 @@
       "zettelflow:Create a new Zettel Note": false
     }
   },
-  "active": "d9e2db092f81c9e9",
+  "active": "9b7b72be1f60955f",
   "lastOpenFiles": [
+    "2024-05-07.md",
+    "Untitled.canvas",
     "CUBUS.md",
+    "Details/Components/CubusMod.md",
     "README.md",
     "Details/Components/Database/Secure.md",
     "Details/Components/Queen.md",
@@ -180,7 +176,6 @@
     "Details/Components/Website.md",
     "Details/Components/Security.md",
     "Details/Components/API.md",
-    "Details/Components/CubusMod.md",
     "Details/Components/Discord Bot.md",
     "Details/Components/Drones/MPI.md",
     "Details/Components/Drones/Minecraft Proxy.md",
