@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"a15f58f610f46d09","type":"group","x":-340,"y":-480,"width":1050,"height":440,"color":"6","label":"Database Types"},
-		{"id":"035f532ef6748aa4","type":"group","x":0,"y":-420,"width":369,"height":340,"color":"6","label":"Secure"},
+		{"id":"a15f58f610f46d09","type":"group","x":-340,"y":-480,"width":1050,"height":500,"color":"6","label":"Database Types"},
+		{"id":"035f532ef6748aa4","type":"group","x":0,"y":-420,"width":369,"height":420,"color":"6","label":"Secure"},
 		{"id":"3f2155fffa177177","type":"group","x":400,"y":-420,"width":290,"height":340,"color":"6","label":"Bulk"},
 		{"id":"00574d46ffb4c007","type":"group","x":-320,"y":-420,"width":290,"height":340,"color":"6","label":"Quick"},
 		{"id":"7b6899c5f7a15bbe","type":"text","text":"[[Quick#Server DB|Server DB]]","x":-300,"y":-400,"width":250,"height":60,"color":"6"},
@@ -9,6 +9,7 @@
 		{"id":"147aa917db2e67b8","type":"text","text":"[[Quick#Cache|Cache]]","x":-300,"y":-239,"width":250,"height":60,"color":"6"},
 		{"id":"aab3b305aeb0a357","type":"text","text":"[[Secure#Player UUID & Matching public keys|Player UUID & Matching public keys]]","x":20,"y":-400,"width":329,"height":60,"color":"6"},
 		{"id":"2553779e006aaa9b","type":"text","text":"[[Secure#Drone UID & Matching public keys|Drone UID & Matching public keys]]","x":20,"y":-324,"width":329,"height":60,"color":"6"},
+		{"id":"2a0c9ac8b5a076ab","type":"text","text":"[[Secure#Cube ID, Public Key, (IP), Trust-Score | Cube ID, Public Key, (IP), Trust-Score]]","x":20,"y":-80,"width":320,"height":61,"color":"6"},
 		{"id":"a6ad65f33b55eac8","type":"text","text":"[[Quick#Messenger|Messenger]]","x":-300,"y":-158,"width":250,"height":60,"color":"6"},
 		{"id":"c49958ca6cd9cbd8","type":"text","text":"[[Secure#DB Credentials|DB Auths]]","x":20,"y":-163,"width":320,"height":65,"color":"6"},
 		{"id":"50487ee7b8490d05","type":"text","text":"[[Secure#Queen public key|Queen public key]]","x":20,"y":-244,"width":329,"height":65,"color":"6"},

@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d4aaecedc0672db7",
+        "id": "bd54cd8aeafcb60e",
         "type": "tabs",
         "children": [
           {
-            "id": "e8b334906244d07f",
+            "id": "8312f3d4a6d8d36e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Details/Components/CubusMod.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Details/Components/CubusMod.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Details/Components/CubusMod.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Details/Components/CubusMod.md"
+              }
             }
           },
           {
@@ -155,26 +164,27 @@
       "zettelflow:Create a new Zettel Note": false
     }
   },
-  "active": "9b7b72be1f60955f",
+  "active": "d9e2db092f81c9e9",
   "lastOpenFiles": [
-    "README.md",
     "CUBUS.md",
-    "Terms of Service.md",
+    "README.md",
+    "Details/Components/Database/Secure.md",
+    "Details/Components/Queen.md",
     "Details/CUBUS Structure.canvas",
+    "Details/Components/Drones/SpaceInvader.md",
+    "Terms of Service.md",
+    "Details/Components/Database/Bulk.md",
+    "Details/Components/Database/Database.canvas",
+    "Details/Components/Database/Quick.md",
+    "Details/Components/Database/Untitled.md",
     "Details/Components/Website.md",
     "Details/Components/Security.md",
-    "Details/Components/Queen.md",
     "Details/Components/API.md",
     "Details/Components/CubusMod.md",
     "Details/Components/Discord Bot.md",
-    "Details/Components/Database/Database.canvas",
-    "Details/Components/Database/Quick.md",
-    "Details/Components/Drones/SpaceInvader.md",
     "Details/Components/Drones/MPI.md",
     "Details/Components/Drones/Minecraft Proxy.md",
     "Details/Components/Drones/Drones.canvas",
-    "Details/Components/Database/Secure.md",
-    "Details/Components/Database/Bulk.md",
     "New folder",
     "Terms.md",
     "Drones.md",

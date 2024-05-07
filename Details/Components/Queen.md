@@ -1,1 +1,1 @@
-The C2 server
+The C2 server. It can be configured to be the controller of a whole CUBUS net or only a CUBUS subnet. When it's a subnet queen it only accepts commands from the Queen cube one layer above.
